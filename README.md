@@ -300,5 +300,3 @@ Pillow
 3.**Сервер**:
 
 nginx
-
-### Автор проекта Ляховицкая Наталья https://github.com/momtheprogram/api_yatube
