@@ -1,0 +1,5 @@
+IP: 158.160.73.243;
+name_taski: alexandrkhasmatulin.ddnsking.com;
+name_kittygram: https://kittygramalex.ddns.net;
+login: yc-user;
+password: 1234;
