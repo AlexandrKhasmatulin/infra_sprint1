@@ -7,11 +7,11 @@ environ.Env.read_env()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = env.str('SECRET_KEY', default='А Наташа молодец')
+SECRET_KEY = 'django-insecure-i8n#^u!c+u95k0b2*uraj)8b00(%p3ip9f*ze7s&+%8$r4bi5m'
 
 DEBUG = env.bool('DEBUG', default=False)
 
-ALLOWED_HOSTS = os.environ.get('HOSTS', '').split() 
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
